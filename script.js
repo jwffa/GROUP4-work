@@ -1,2 +1,2 @@
-console.log("merab tsitskhvaia");
-console.log("ana giorgadze")
+console.log("MERAB TSITSKHVAIA");
+console.log("ana giorgadze");
